@@ -1,4 +1,5 @@
-Java Design Patterns
+*Java Design Patterns*
+
 Some of the benefits of using design patterns are:
 
 - Design Patterns are already defined and provides industry standard approach to solve a recurring problem, so it saves time if we sensibly use the design pattern. There are many java design patterns that we can use in our java based projects.
@@ -13,6 +14,8 @@ Creational Design Patterns:
 - Abstract Factory Pattern
 - Builder Pattern
 - Prototype Pattern
+
+Structural Design Patterns:
 - Adapter Pattern
 - Composite Pattern
 - Proxy Pattern
